@@ -17,12 +17,12 @@ You also may need to pre-process your data to get it into an appropriate format.
 This Project will help you to explore and analyse a set of data and reconstruct it into meaningful representations for decision making.
 
 
-4.0	PROJECT DESCRIPTION
+3.0	PROJECT DESCRIPTION
 
 This dataset contains the data of staffs within an organization that could determine some hidden issue in human resources management. Human resource department manager assigned you to perform analysis with the given dataset to identify hidden problem in the organization and provide meaningful insight for decision making. 
 
 
-5.0 Techniques
+4.0 Techniques
 
 The techniques used to explore the dataset using various data exploration, manipulation, transformation, and visualization techniques which covered in the course. And as an additional feature must explore the further concepts which can improve the retrieval effects.
 
